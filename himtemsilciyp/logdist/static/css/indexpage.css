@@ -1,0 +1,28 @@
+body {
+    background-color: #8fc6ea;
+}
+
+
+form {
+    padding: 100px;
+    background-color: #fef6f4;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2);
+    border-radius: 60px;
+    justify-content: center;
+    width: 70%;
+
+}
+
+
+
+
+
+
+.img-fluid{
+    align-content: center;
+    margin-left: -150px;
+    padding:-60px;
+    border-radius: 60px;
+    
+}
+
